@@ -7,10 +7,6 @@ body {
 
 }
 
-* {
-  outline: 1px dotted yellow;
-}
-
 .header {
   background-color: #2d303a;
   height: 90px;
@@ -330,6 +326,7 @@ height: 735px;
   color: #666d89;
   font-size: 0.95rem;
   font-weight: bold;
+  margin-top: 60px;
 }
 
 .aboutus_info {
@@ -517,6 +514,36 @@ textarea:last-child {
   width: 260px;
 }
 
+.footer {
+  height: 75px;
+  background-color: #2d303a;
+}
+
+.copyright {
+  width: 200px;
+  height: 20px;
+  padding-left: 40px;
+  padding-top: 20px;
+  float: left;
+}
+
+.cpyr_img {
+  float: left;
+  margin-top: 9px;
+}
+
+.cpyr_info {
+  font-size: 0.7rem;
+  color: #666d89;
+  float: left;
+}
+
+.social {
+  width: 180px;
+  margin-top: 15px;
+  margin-right: 35px;
+  float: right;
+}
 
 
 
