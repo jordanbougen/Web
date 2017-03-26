@@ -58,6 +58,10 @@ body {
   max-width: 960px ;
 }
 
+.page1 {
+  height: 500px ;
+}
+
 .services {
   width: 965px ;
   margin-left: auto ;
@@ -68,6 +72,7 @@ body {
 .title {
   color: #666d89 ;
   font-size: 0.95rem ;
+  font-weight: bold ;
 }
 
 .paragraph {
@@ -262,6 +267,56 @@ body {
   color: #767e9e ;
   font-size: 0.85rem ;
 }
+
+.portfolio {
+  background-color: #2d303a ;
+}
+
+.portfolio_contents {
+  width: 975px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+
+.portfolio_title {
+  color: #666d89 ;
+  font-size: 0.95rem ;
+  font-weight: bold ;
+  padding-top: 60px ;
+}
+
+.portfolio_info {
+  color: #666d89 ;
+  font-size: 1.1rem ;
+  margin-top: 25px ;
+}
+
+.buttons {
+  margin-top: 10px ;
+  font-size: 0.75rem ;
+  color: #666d89 ;
+
+}
+
+.buttons a {
+  color: #666d89 ;
+  text-decoration: none ;
+  padding: 0 10px ;
+  border: 2px solid #666d89 ;
+  border-radius: 10px ;
+  margin: 0 10px;
+}
+
+.imgs {
+  margin-top: 20px ;
+}
+
+.imgs img {
+  margin-right: 20px ;
+  margin-bottom: 20px ;
+}
+
+
 
 
 
