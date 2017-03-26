@@ -316,6 +316,10 @@ body {
   margin-bottom: 20px;
 }
 
+.aboutus {
+height: 735px;
+}
+
 .aboutus_contents {
   width: 960px;
   margin-left: auto;
@@ -397,6 +401,50 @@ body {
 
 .right_media {
   margin-top: 20px;
+}
+
+.quote {
+  background-color: #f16c65;
+  height: 655px;
+}
+
+.quote_contents {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.quote_title {
+  color: #f0d8d9;
+  font-size: 0.95rem;
+  font-weight: bold;
+  padding-top: 65px;
+}
+
+.quote_info {
+  color: #f0d8d9;
+  padding-top: 2px;
+}
+
+.quote_fillin {
+  width: 620px;
+  margin-top: 50px;
+}
+
+textarea {
+  width: 610px;
+  background-color: #d6564f;
+  color: #f48c8f;
+  border-radius: 10px;
+  margin-bottom:10px;
+  resize: none;
+  padding-top: 10px;
+  padding-left: 10px;
+  border: none;
+}
+
+textarea:last-child {
+  height: 200px;
 }
 
 
