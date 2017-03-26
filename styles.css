@@ -427,11 +427,17 @@ height: 735px;
 }
 
 .quote_fillin {
-  width: 620px;
+  width: 960px;
   margin-top: 50px;
+  height: 390px;
 }
 
-textarea {
+.form {
+  width: 610px;
+  float: left;
+}
+
+.form textarea {
   width: 610px;
   background-color: #d6564f;
   color: #f48c8f;
@@ -446,6 +452,72 @@ textarea {
 textarea:last-child {
   height: 200px;
 }
+
+.contact_info {
+  width: 300px;
+  float: right;
+}
+
+.contact_info h3 {
+  color: #f0d8d9;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.contact_info p {
+  color: #f0d8d9;
+  font-size: 0.75rem;
+}
+
+.contact_details {
+  width: 300px;
+  float: right;
+  margin-top: 30px;
+}
+
+.map {
+  float: left;
+  margin-top: 10px;
+  width: 20px;
+}
+
+.map_info {
+  color: #f0d8d9;
+  font-size: 0.75rem;
+  float: left;
+  padding-left: 10px;
+  width: 260px;
+}
+
+.phone {
+  float: left;
+  margin-top: 10px;
+  width: 20px;
+}
+
+.phone_info {
+  color: #f0d8d9;
+  font-size: 0.75rem;
+  float: left;
+  padding-left: 10px;
+  width: 260px;
+}
+
+.email {
+  float: left;
+  margin-top: 10px;
+  width: 20px;
+}
+
+.email_info {
+  color: #f0d8d9;
+  font-size: 0.75rem;
+  float: left;
+  padding-left: 10px;
+  width: 260px;
+}
+
+
 
 
 @media screen and (max-width: 610px) {
